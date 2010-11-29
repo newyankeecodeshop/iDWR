@@ -2,6 +2,8 @@
 
 Welcome to "iDWR", a native iOS wrapper for the DWR client engine. This library allows Objective-C classes to invoke DWR-based services using an embedded UIWebView that hosts the DWR engine. The DWR engine is handling the network operations, just as in a standard browser. The library code is coordinating the callbacks and handling marshaling to/from Objective-C types.
 
+DWR: <http://directwebremoting.org/dwr/index.html>
+
 # Requirements
 
 This code is compiled against the iOS 4.1 SDK, and should run fine on iOS 3.1 or later.
